@@ -35,3 +35,4 @@ class App extends React.Component { constructor(props){ //매개변수 props 생
    ); }
   }
   export default App;
+  
